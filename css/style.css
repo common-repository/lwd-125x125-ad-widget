@@ -1,0 +1,21 @@
+/*-[ Ad Widgets ]------------------------------*/
+.ad-125 ul {
+	float: left;
+	width: 330px;
+	margin: 0;
+	list-style: none;
+	max-width: 100%;
+}
+
+.ad-125 li{
+	float: left;
+	border: none;
+	list-style: none!important;  
+	padding-left: 0;
+	background: none;
+	margin-bottom: 15px;
+}
+
+li.oddad {
+	margin-right: 8%;
+}
